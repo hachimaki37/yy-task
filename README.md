@@ -25,3 +25,4 @@ Rails 5.2.4.1
 * 参考資料
 https://reasonable-code.com/rails-todo/
 https://tyoshikawa1106.hatenablog.com/entry/2015/08/14/162120
+https://qiita.com/ryosuketter/items/90cb818d506c4cf06c1d

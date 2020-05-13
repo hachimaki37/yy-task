@@ -6,7 +6,10 @@
 </table>
 <ul>
     <% @task.each do |task| %>
-    <li><%= task.content %></li>
+        <li><%= task.content %>
+            <%= link_to '編集', edit_task_path(task) %>
+            <%= link_to '削除', task_path(task), method: :delete %>
+        </li>
     <% end %>
 </ul>
 <%= link_to '追加', new_task_path %>

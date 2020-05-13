@@ -6,7 +6,8 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+ruby 2.6.4
+Rails 5.2.4.1
 * System dependencies
 
 * Configuration
@@ -21,4 +22,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* 参考資料
+https://reasonable-code.com/rails-todo/
+https://tyoshikawa1106.hatenablog.com/entry/2015/08/14/162120
